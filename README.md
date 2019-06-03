@@ -1,4 +1,1 @@
 # KotaHaraProject
-# KotaHaraProject
-# KotaHaraProject
-# KotaHaraProject
