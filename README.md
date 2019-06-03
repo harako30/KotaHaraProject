@@ -1,1 +1,1 @@
-# KotaHaraProject
+# MyApplication
